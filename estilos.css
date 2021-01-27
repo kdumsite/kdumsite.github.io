@@ -1,6 +1,7 @@
 
+
 .header{
-    background: rgb(110, 62, 138);
+    background:  #14b6b6;
     margin-bottom: 20px;
     text-align: center;
 }
@@ -14,18 +15,18 @@
 }
 
 .memu_area nav a{
-    background-color: #5f3d75;
+    background-color: #13a5a5;
     color:white;
     margin-bottom: 10px;
 }
 
 .memu_area nav a:hover{
-    background-color: #764c92;
+    background-color: #198181;
 }
 
 
 .active{
-    background-color: #402253 !important;
+    background-color: #095e5e !important;
 }
 
 .logo{
@@ -46,7 +47,7 @@
 
 .footer{
     margin-top: 10px;
-    background: rgb(110, 62, 138);
+    background: #14b6b6;
     color: white;
 }
 .footer_area{
